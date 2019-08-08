@@ -2,10 +2,10 @@
   "name": "down-the-road",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://matt-writes-code.github.io/down-the-road",
+  "homepage": "https://matt-writes-code.github.io/down-the-road",
   "dependencies": {
     "bootstrap": "^4.3.1",
-    "gh-pages": "^2.1.0",
+    "gh-pages": "^2.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1",
