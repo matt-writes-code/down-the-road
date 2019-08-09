@@ -9,7 +9,7 @@ import Fyon from '../media/fyon.jpg';
 import Giselle from '../media/giselle.jpg';
 import Ian from '../media/ian.jpg';
 import Matt from '../media/matt.jpg';
-
+import Silver from '../media/silver.jpeg';
 
 const Layout = () => {
     return (
@@ -21,6 +21,7 @@ const Layout = () => {
             <Friend name="Fyon" image={Fyon} text="Good friends never say goodbye. They simply say “See you soon.”" />
             <Friend name="Ian" image={Ian} text="Though miles may lie between us, we are never far apart, for friendship doesn’t count miles, it’s measured by the heart." />
             <Friend name="Matt" image={Matt} text="Nothing makes the earth seem so spacious as to have friends at a distance; they make the latitudes and longitudes." />
+            <Friend name="Silver" image={Silver} text="Dear Gazelle," text2="2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019... and counting! No matter how far you travel, I'm here if you need me. The most precious thing that I got from undergrad is not about that one piece of paper but our friendship. Thank you." quote="If ever there is tomorrow when we're not together. There is something you must always remember. You are braver than you believe, stronger than you seem, and smarter than you think. But the most important thing is, even if we're apart... I'll always be with you. - Winnie the Pooh" />
         </CardColumns>
     );
 };
