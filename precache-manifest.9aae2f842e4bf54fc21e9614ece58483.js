@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d47d55b95b1d3fe8433fa57be4001a01",
+    "revision": "6d2a9095eeb774b523b749ca8d20709b",
     "url": "/down-the-road/index.html"
   },
   {
-    "revision": "abca2e3dcb6491cc90f1",
+    "revision": "da3d1c8fdef83cacfd21",
     "url": "/down-the-road/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "a8f8eb408c861bb6b40b",
-    "url": "/down-the-road/static/css/main.0fbdecb3.chunk.css"
+    "revision": "300ff474e82f3ba7eddf",
+    "url": "/down-the-road/static/css/main.e16268e1.chunk.css"
   },
   {
-    "revision": "abca2e3dcb6491cc90f1",
-    "url": "/down-the-road/static/js/2.0d1d4695.chunk.js"
+    "revision": "da3d1c8fdef83cacfd21",
+    "url": "/down-the-road/static/js/2.ea752f81.chunk.js"
   },
   {
-    "revision": "a8f8eb408c861bb6b40b",
-    "url": "/down-the-road/static/js/main.2329f49c.chunk.js"
+    "revision": "300ff474e82f3ba7eddf",
+    "url": "/down-the-road/static/js/main.a83aa749.chunk.js"
   },
   {
     "revision": "9408713dcb662db39151",
@@ -58,5 +58,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "129c20384e4eaf3f45cdcc4f025d8b5d",
     "url": "/down-the-road/static/media/matt.129c2038.jpg"
+  },
+  {
+    "revision": "9d3ff326be7f3bc6ffda541ca33093d7",
+    "url": "/down-the-road/static/media/silver.9d3ff326.jpeg"
   }
 ]);
