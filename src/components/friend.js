@@ -12,6 +12,8 @@ const Friend = (prop) => {
                 <CardTitle className="name">{prop.name}</CardTitle>
                 <CardText>{prop.text}</CardText>
                 <CardText>{prop.text2}</CardText>
+                <CardText>{prop.text3}</CardText>
+                <CardText>{prop.text4}</CardText>
                 <CardText className="quotes">{prop.quote}</CardText>
             </CardBody>
         </Card>
