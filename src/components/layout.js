@@ -28,7 +28,16 @@ const Layout = () => {
         <div>
 
             <CardColumns>
-                <Friend name="Aaron" image={Aaron} text="We've come a long way since our first semester, and now you're on your way to a new adventure! Tho our hangouts reduced as life gotten busier, remember to eat and rest (rhyming this is trickier)! I have no Canada puns, I know, what a crime! instead, I decided to make this message rhyme." text2="Take care and valar morghulis," text3="Aaron" text4="P.S. Let me know if you want to continue your D&D via Skype ;) This is at postscript because I rather not rhyme Skype" />
+                <Friend name="Aaron" image={Aaron}
+                    text="We've come a long way since our first semester,"
+                    text2="and now you're on your way to a new adventure!"
+                    text3="Tho our hangouts reduced as life has gotten busier,"
+                    text4="remember to eat and rest (rhyming this is trickier)!"
+                    text5="I have no Canada puns, I know, what a crime!"
+                    text6="instead, I decided to make this message rhyme."
+                    text7="Take care and valar morghulis,"
+                    text8="Aaron"
+                    text9="P.S. Let me know if you want to continue your D&D via Skype ;) This is at postscript because I rather not rhyme Skype" />
                 <Friend name="Chiau Hui" image={CH} text="Thank you for always having our backs over the many things throughout our uni life. It would never had been the same without you! Now that your heading next step towards your dream, I hope that you bring many happy memories with you and bring more happiness back when we see you in 2 years!!! All the best and safe flight ahead!! Fighting!!><" />
                 <Friend name="Calvin" image={Calvin} text="All da best, Giselle! Your lone adventure is just starting out there in Canada, but your family and friends will always be with you 🙂 see you soon!" />
                 <Friend name="Danielle" image={Danny} text="Bye Gazella, be well. Praying that you have a fruitful time of study and encouraging friendships in this new endeavor." />
